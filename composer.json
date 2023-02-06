@@ -28,7 +28,7 @@
         "php": "^7.4 || ~8.0.0 || ~8.1.0 || ~8.2.0",
         "bshaffer/oauth2-server-php": "^1.12.1",
         "laminas-api-tools/api-tools-api-problem": "^1.4",
-        "laminas-api-tools/api-tools-content-negotiation": "^1.7.0",
+        "oldcodefork/laminas-api-tools-content-negotiation": "^1.0",
         "laminas/laminas-crypt": "^3.4",
         "laminas/laminas-http": "^2.13",
         "laminas/laminas-mvc": "^2.7.15 || ^3.0.2",
